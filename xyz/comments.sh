@@ -8,3 +8,4 @@ i am writing
 use
 Adarsh
 cal
+uname
